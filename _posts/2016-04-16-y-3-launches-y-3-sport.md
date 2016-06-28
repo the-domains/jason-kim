@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-28T03:46:02.741Z'
+datePublished: '2016-06-28T03:46:17.521Z'
 sourcePath: _posts/2016-04-16-y-3-launches-y-3-sport.md
 inFeed: true
 isBasedOnUrl: >-
@@ -21,7 +21,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-28T03:46:02.393Z'
+dateModified: '2016-06-28T03:46:17.050Z'
 title: Y-3 Launches Y-3 Sport
 app_links: []
 publisher:
@@ -37,7 +37,7 @@ description: >-
   sport line.
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
