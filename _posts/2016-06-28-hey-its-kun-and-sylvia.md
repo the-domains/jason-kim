@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-06-28T05:38:09.338Z'
+datePublished: '2016-06-28T05:38:46.326Z'
 author: []
-dateModified: '2016-06-28T05:38:05.695Z'
+dateModified: '2016-06-28T05:38:46.078Z'
 title: hey! it’s Kun and Sylvia
 description: >-
   Liz and I always go the outdoors with these two. Wether it’s Tahoe or
   Yosemite, Kun and Sylvia are always down to explore! Kun knows everything
   computer and Sylvia has been helping kids since forever.
-starred: false
 sourcePath: _posts/2016-06-28-hey-its-kun-and-sylvia.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
