@@ -1,19 +1,17 @@
 ---
-description: here’s to my first website. you can find me on LinkedIn as well.
-dateModified: '2016-06-28T04:47:52.186Z'
-datePublished: '2016-06-28T04:47:52.545Z'
-title: my first website
+description: my first website
+dateModified: '2016-06-28T05:14:10.615Z'
+datePublished: '2016-06-28T05:14:11.012Z'
+title: ''
 author: []
 sourcePath: _posts/2016-06-28-my-first-website.md
-starred: true
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cf6ac61-ced9-4ce8-a8b7-7cb2edebb2d1.jpg
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# my first website
-
-here's to my first website. you can find me on [LinkedIn ][0]as well.
-
-[0]: https://www.linkedin.com/in/jasonhk1020 "LinkedIn"
+![my first website](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e05d31a-6cc8-4903-aa1c-01f6f7e9142e.jpg)
