@@ -2,14 +2,14 @@
 description: >-
   i dabble in various things. medical devices. mobile application development.
   education technology. e-sports.
-dateModified: '2016-06-28T05:39:08.472Z'
-datePublished: '2016-06-28T05:39:08.827Z'
+dateModified: '2016-06-28T05:39:10.254Z'
+datePublished: '2016-06-28T05:39:10.508Z'
 title: 'this is me, Jason'
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cab71758-929c-47c5-8a6b-5afecc944f62.jpg
 sourcePath: _posts/2016-06-28-this-is-me-jason.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
