@@ -14,6 +14,9 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa209797-3899-4fcc-ac93-32d0a3d51154.jpg
 layout_spectrum: 0.5307840823661536
+analytics:
+  google: UA-79984919-1
+  facebook: '1637524449836292'
 author:
   name: jasonhk1020
   email: jasonhk1020@gmail.com
